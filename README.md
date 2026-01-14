@@ -1,4 +1,6 @@
 📊 Mutual Fund Plan Using Python
+
+
 📌 Project Overview
 
 This project builds a data-driven mutual fund investment strategy using historical Nifty 50 closing price data. The goal is to identify stocks that provide high long-term returns with controlled risk, construct a balanced portfolio, and simulate systematic investment (SIP) returns over time.
@@ -6,24 +8,19 @@ This project builds a data-driven mutual fund investment strategy using historic
 🎯 Objectives
 
 Analyze stock performance using ROI and volatility
-
 Select companies with high returns and low risk
-
 Allocate investments using inverse volatility weighting
-
 Compare mutual fund risk with high-growth stocks
-
 Simulate long-term wealth creation using a monthly SIP with annual step-up
 
 🗂 Dataset
 
 Historical closing prices of Nifty 50 companies
-
 Data source: CSV file
-
 Preprocessing included date conversion and missing value checks
 
 🔍 Methodology
+
 1. Data Preparation
 
 Loaded stock price data
@@ -109,3 +106,5 @@ Extend analysis to other market indices
 🧠 Conclusion
 
 This project demonstrates how data analytics and financial metrics can be combined to design a risk-balanced mutual fund strategy and evaluate long-term wealth creation through systematic investing.
+
+
